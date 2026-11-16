@@ -1,8 +1,3 @@
-"""
-CardioPulse Quantum Pro — Clinical AI Risk Stratification & Decision Support System
-Light Theme + Warm Beige & Red Clinical SaaS Palette + Thick Red ECG Waveform
-"""
-
 import customtkinter as ctk
 import tkinter as tk
 from tkinter import messagebox, filedialog
